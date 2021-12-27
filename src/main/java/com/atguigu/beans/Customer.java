@@ -7,5 +7,6 @@ public class Customer {
         System.out.println("张山");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("master");
     }
 }
