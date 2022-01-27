@@ -10,5 +10,6 @@ public class Customer {
         System.out.println("master");
         System.out.println("master");
         System.out.println("小明");
+        System.out.println("小王八");
     }
 }
